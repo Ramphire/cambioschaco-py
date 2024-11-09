@@ -6,7 +6,7 @@ Estos scripts fueron desarrollados con la alternativa de evitar el uso de "APEX_
 
 #### API
 
-```http
+```
   GET https://www.cambioschaco.com.py/api/branch_office/1/exchange
 ```
 
